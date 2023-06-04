@@ -7,6 +7,11 @@
 - Postman
 
 ## How to run the project ?
+### For MySQL setup
+- 1. Setup XAMPP in your system to run the mysql server
+- 2. Get the MySQL Database and Apache Web Server Running
+- 3. Visit `http://localhost/phpmyadmin/` in your browser and create a database = eval_health and table = users
+### For Flask setup
 - 1. Download <app.py> to your system
 - 2. Run command `python3 -m flask run`
 - 3. Website is locally hosted on `http://127.0.0.1:5000`

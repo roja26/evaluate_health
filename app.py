@@ -1,7 +1,3 @@
-""" TO DO -:
-1. Make README.md
-"""
-
 """
 NOTE -:
 1. ID is the primary key and is unique for each user, accounts for duplicate user
